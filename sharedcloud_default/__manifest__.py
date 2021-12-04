@@ -59,9 +59,6 @@
     'git-repos': [
         'https://github.com/marionumza/cl-sharedcloud.git -b 12.0',
 
-        # Quilsoft
-        #'git@github.com:quilsoft-org/cocacola.git -b main',
-
         # OCA
         'https://github.com/OCA/account-analytic OCA-account-analytic -b 12.0',
         'https://github.com/OCA/account-closing OCA-account-closing -b 12.0',
@@ -152,10 +149,16 @@
         'https://github.com/ingadhoc/stock ingadhoc-stock -b 12.0',
         'https://github.com/ingadhoc/website ingadhoc-website -b 12.0',
         'https://github.com/ingadhoc/account-financial-tools.git -b 12.0',
-        'https://github.com/ingadhoc/patches ingadhoc-patches -b 12.0'
+        'https://github.com/ingadhoc/patches ingadhoc-patches -b 12.0',
 
         # Regaby
-        'https://github.com/regaby/odoo-custom.git regaby-odoo-custom -b 12.0'
+        'https://github.com/regaby/odoo-custom.git regaby-odoo-custom -b 12.0',
+
+        # itpp-labs
+        'https://github.com/itpp-labs/misc-addons itpp-labs-misc-addons -b 12.0',
+        'https://github.com/itpp-labs/pos-addons itpp-labs-pos-addons -b 12.0',
+        'https://github.com/itpp-labs/access-addons itpp-labs-access-addons',
+
     ],
 
     # list of images to use in the form 'name image-url'
