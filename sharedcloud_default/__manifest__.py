@@ -57,7 +57,7 @@
     'port': '8069',
 
     'git-repos': [
-        'https://github.com/jobiols/cl-sharedcloud.git -b 12.0 --depth 1',
+        'https://github.com/jobiols/cl-sharedcloud.git -b 12.0',
 
         # Quilsoft
         #'git@github.com:quilsoft-org/cocacola.git -b main',
