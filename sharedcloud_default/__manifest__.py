@@ -148,11 +148,11 @@
         'https://github.com/ingadhoc/sale ingadhoc-sale -b 12.0',
         'https://github.com/ingadhoc/stock ingadhoc-stock -b 12.0',
         'https://github.com/ingadhoc/website ingadhoc-website -b 12.0',
-        'https://github.com/ingadhoc/account-financial-tools.git -b 12.0',
+        'https://github.com/ingadhoc/account-financial-tools ingadhoc-account-financial-tools -b 12.0',
         'https://github.com/ingadhoc/patches ingadhoc-patches -b 12.0',
 
         # Regaby
-        'https://github.com/regaby/odoo-custom.git regaby-odoo-custom -b 12.0',
+        'https://github.com/regaby/odoo-custom regaby-odoo-custom -b 12.0',
 
         # itpp-labs
         'https://github.com/itpp-labs/misc-addons itpp-labs-misc-addons -b 12.0',
